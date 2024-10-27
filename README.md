@@ -150,9 +150,6 @@ $ docker compose -d --force-recreate --build
 구현 완료되면 테스트 결과 이미지 및 시현 영상 업로드 예정
 
 - **[Airflow 화면]**
-
-</br>
-
 ![image](https://github.com/user-attachments/assets/62e19ce7-51cf-4a2e-a322-651971c0560a)
 
 <br/>
