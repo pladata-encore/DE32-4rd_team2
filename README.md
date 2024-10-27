@@ -13,6 +13,7 @@
 | [조하영](https://github.com/EstherCho-7)   ||
 
 <br/>
+
 ### 활용 기술 스택
 ---
 ![Ubuntu](https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu)
@@ -26,10 +27,12 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 <br/>
+
 ### 🗓️ 전체 프로젝트 일정
 > **프로젝트 일정 : 2024년 10월 24일 ~ 2024년 10월 27일(총 4일)**
 
 <br/>
+
 ## 목차
 1. [프로젝트 개요](#프로젝트-개요)
 2. [요구사항 정의서](#요구사항-정의서)
@@ -42,6 +45,7 @@
 9. [최종 검토 및 개선](#최종-검토-및-개선)
 
 <br/>
+
 ### 프로젝트 개요
 ---
 #### 프로젝트 시나리오
@@ -55,6 +59,7 @@
 > 메세지 발신자의 IP를 추가한 로그를 데이터베이스에 남겨 분석하고 감시하는 프로그램을 개발한다.
 
 <br/>
+
 ### 요구사항 정의서
 ---
 #### 프로필
@@ -82,12 +87,14 @@
 
 
 <br/>
+
 ### 개발 일정
 ---
 상우형 보내주세요
 
 
 <br/>
+
 ### 주요 기능
 ---
 1. **메시지 기록 및 로깅**
@@ -105,12 +112,14 @@
 
 
 <br/>
+
 ### 시스템 아키텍처
 ---
 상우형 보내주세요
 
 
 <br/>
+
 ### 환경 구성
 ---
 1. **AWS 서버 접속**
@@ -135,12 +144,14 @@ $ docker compose -d --force-recreate --build
 
 
 <br/>
+
 ### 테스트 결과
 ---
 구현 완료되면 테스트 결과 이미지 및 시현 영상 업로드 예정
 
 
 <br/>
+
 # 회고(KPT)
 ### 팀 회고
 #### 같이 최종 회고 하나 적어도 괜찮을 듯해여
@@ -302,6 +313,7 @@ $ docker compose -d --force-recreate --build
 </div>
 </details>
 
+<br/>
 
 ### 최종 검토 및 개선
 
