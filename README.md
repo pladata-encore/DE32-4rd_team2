@@ -16,8 +16,9 @@
 ---
 ![Ubuntu](https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu)
 ![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-9B59B6?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+</br>
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017E9A?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
