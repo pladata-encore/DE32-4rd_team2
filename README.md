@@ -115,8 +115,7 @@
 
 ### 🏗️시스템 아키텍처
 ---
-상우형 보내주세요
-
+![image](https://github.com/user-attachments/assets/97b20b4c-0c07-4c14-baa0-8913c0d8e6d2)
 
 <br/>
 
