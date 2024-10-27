@@ -14,7 +14,7 @@
 
 <br/>
 
-### 활용 기술 스택
+### 🛠️활용 기술 스택
 ---
 ![Ubuntu](https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu)
 ![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
