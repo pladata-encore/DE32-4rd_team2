@@ -6,11 +6,11 @@
 
 | 이름     | 역할 및 담당 업무  |
 |:--------:|:---------------:|
-| [김동욱](https://github.com/DONGUK777)   | Kafka(Consumer 및 로그 파일 저장), README 작성 |
-| [김도현](https://github.com/rlaehgus97)   | PySpark 및 Airflow 데이터 집계 및 DB 저장, 대시보드 제작 |
-| [이상우](https://github.com/GITSangWoo)   | 풀스택, 시스템 아키텍처 빌드, 대시보드 제작 |
-| [이상훈](https://github.com/hun0219)   | Kafka(Producer), PySpark 및 Airflow 데이터 집계 및 DB 저장 |
-| [조하영](https://github.com/EstherCho-7)   | Spring Boot(CRUD 및 DB 생성), 트러블 슈팅 |
+| [김동욱](https://github.com/DONGUK777)   | Kafka(Consumer 기능 구현 및 로그 파일 저장), README 작성 |
+| [김도현](https://github.com/rlaehgus97)   | PySpark 및 Airflow 데이터 집계 및 DB 저장, DashBoard 제작 |
+| [이상우](https://github.com/GITSangWoo)   | 풀(Full)스택, 프로젝트 Architecture 빌드, DashBoard 제작 |
+| [이상훈](https://github.com/hun0219)   | Kafka(Producer 기능 구현), PySpark 및 Airflow 데이터 집계 및 DB 저장 |
+| [조하영](https://github.com/EstherCho-7)   | Spring Boot(CRUD 및 DB 생성), Trouble Shooting |
 
 <br/>
 
