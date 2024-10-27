@@ -12,6 +12,7 @@
 | [이상훈](https://github.com/hun0219)   ||
 | [조하영](https://github.com/EstherCho-7)   ||
 
+<br/>
 ### 활용 기술 스택
 ---
 ![Ubuntu](https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu)
@@ -24,9 +25,11 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
+<br/>
 ### 🗓️ 전체 프로젝트 일정
 > **프로젝트 일정 : 2024년 10월 24일 ~ 2024년 10월 27일(총 4일)**
 
+<br/>
 ## 목차
 1. [프로젝트 개요](#프로젝트-개요)
 2. [요구사항 정의서](#요구사항-정의서)
@@ -38,7 +41,7 @@
 8. [회고(KPT)](#회고(KPT))
 9. [최종 검토 및 개선](#최종-검토-및-개선)
 
-
+<br/>
 ### 프로젝트 개요
 ---
 #### 프로젝트 시나리오
@@ -51,7 +54,7 @@
 **[솔루션]**
 > 메세지 발신자의 IP를 추가한 로그를 데이터베이스에 남겨 분석하고 감시하는 프로그램을 개발한다.
 
-
+<br/>
 ### 요구사항 정의서
 ---
 #### 프로필
@@ -78,13 +81,13 @@
 | AU-03          | 특정 단어 통계           | 회사에 대한 기술 및 기밀 정보에 관한 단어 사용을  통계합니다.    | 필수       | 중         | O             |
 
 
-
+<br/>
 ### 개발 일정
 ---
 상우형 보내주세요
 
 
-
+<br/>
 ### 주요 기능
 ---
 1. **메시지 기록 및 로깅**
@@ -101,12 +104,13 @@
    - 관리자가 메시지 기록과 분석 결과를 손쉽게 확인할 수 있는 웹 기반 대시보드를 제공합니다.
 
 
+<br/>
 ### 시스템 아키텍처
 ---
 상우형 보내주세요
 
 
-
+<br/>
 ### 환경 구성
 ---
 1. **AWS 서버 접속**
@@ -128,12 +132,15 @@ $ docker compose -d --force-recreate --build
 
 4. **Airflow 및 Pyspark 실행**
 
+
+
+<br/>
 ### 테스트 결과
 ---
 구현 완료되면 테스트 결과 이미지 및 시현 영상 업로드 예정
 
 
-
+<br/>
 # 회고(KPT)
 ### 팀 회고
 #### 같이 최종 회고 하나 적어도 괜찮을 듯해여
