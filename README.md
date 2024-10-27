@@ -97,7 +97,7 @@
 3. **데이터 분석 및 통계**
    - 수집된 데이터를 기반으로 기밀 정보 유출 가능성을 분석하고, 통계 자료를 생성하여 시각화합니다.
 
-4. **사용자 인터페이스**
+4. **관리자 인터페이스**
    - 관리자가 메시지 기록과 분석 결과를 손쉽게 확인할 수 있는 웹 기반 대시보드를 제공합니다.
 
 
@@ -109,8 +109,24 @@
 
 ### 환경 구성
 ---
+1. **AWS 서버 접속**
+```
+$ ssh -i <your_key> ubuntu@<aws_server_ip>
+```
 
+2. **Kafka 실행**
+```
+$ cd /home/ubuntu/code/springkafka
+$ docker compose up -d
+```
 
+3. **App 및 DB Run**
+```
+$ cd /home/ubuntu/code/JavaWithKafka
+$ docker compose -d --force-recreate --build
+```
+
+4. **Airflow 및 Pyspark 실행**
 
 ### 테스트 결과
 ---
