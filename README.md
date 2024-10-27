@@ -15,10 +15,10 @@
 ### 활용 기술 스택
 ![Ubuntu](https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu)
 ![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat&logo=apache-kafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017E9A?style=flat&logo=apache-airflow&logoColor=white)
-추가 예정
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017E9A?style=for-the-badge&logo=apache-airflow&logoColor=white)
+#### 추가 예정
 
 ### 🗓️ 전체 프로젝트 일정
 <details> 
