@@ -43,6 +43,7 @@
 
 
 ### 프로젝트 개요
+---
 #### 프로젝트 시나리오
 **[설정 상황]**
 > 업무용 메신저에서 회사 기술 및 기밀 정보들이 유출되는 상황들이 생겨나고 있다.
@@ -55,7 +56,7 @@
 
 
 ### 요구사항 정의서
-
+---
 #### 프로필
 
 | **요구사항 ID** | **구분**        | **요구사항 설명**            | **중요도** | **난이도** | **구현 상태** |
@@ -82,26 +83,29 @@
 
 
 ### 개발 일정
+---
 상우형 보내주세요
 
 
 
 ### 주요 기능
-
+---
 
 
 
 ### 시스템 아키텍처
+---
 상우형 보내주세요
 
 
 
 ### 환경 구성
-
+---
 
 
 
 ### 테스트 결과
+---
 구현 완료되면 테스트 결과 이미지 및 시현 영상 업로드 예정
 
 
@@ -115,26 +119,26 @@
 <summary>KEEP</summary>
 <div>
 <figure align="center">
-  <p>중간중간 소통을 해서 서로 진행했던 것, 배운 점을 공유해서 좋았다.</p>
+  <p></p>
  </figure>
 </div>
 </details>
 
 <details>
-<summary>KEEP</summary>
+<summary>PROBLEM</summary>
 <div>
 <figure align="center">
-  <p>중간중간 소통을 해서 서로 진행했던 것, 배운 점을 공유해서 좋았다.</p>
+  <p></p>
  </figure>
 </div>
 </details>
 
 
 <details>
-<summary>KEEP</summary>
+<summary>TRY</summary>
 <div>
 <figure align="center">
-  <p>중간중간 소통을 해서 서로 진행했던 것, 배운 점을 공유해서 좋았다.</p>
+  <p></p>
  </figure>
 </div>
 </details>
