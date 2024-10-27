@@ -25,14 +25,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### 🗓️ 전체 프로젝트 일정
-<details> 
-<summary>프로젝트 일정 : 2024년 10월 24일 ~ 2024년 10월 27일(총 4일)</summary>
-  <div align="center">
-    <img src="https://github.com/beyond-sw-camp/be04-1st-CLOUDY-UniVerse/assets/122339395/2308712b-988b-49a9-bfb9-a2245533f958" alt="">
-    <p align="center">WBS</p>
-  </div>
-
-</details>
+> **프로젝트 일정 : 2024년 10월 24일 ~ 2024년 10월 27일(총 4일)**
 
 ## 목차
 1. [프로젝트 개요](#프로젝트-개요)
