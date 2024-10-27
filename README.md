@@ -111,6 +111,33 @@
 #### 같이 최종 회고 하나 적어도 괜찮을 듯해여
 
 ## 김동욱
+<details>
+<summary>KEEP</summary>
+<div>
+<figure align="center">
+  <p>중간중간 소통을 해서 서로 진행했던 것, 배운 점을 공유해서 좋았다.</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>KEEP</summary>
+<div>
+<figure align="center">
+  <p>중간중간 소통을 해서 서로 진행했던 것, 배운 점을 공유해서 좋았다.</p>
+ </figure>
+</div>
+</details>
+
+
+<details>
+<summary>KEEP</summary>
+<div>
+<figure align="center">
+  <p>중간중간 소통을 해서 서로 진행했던 것, 배운 점을 공유해서 좋았다.</p>
+ </figure>
+</div>
+</details>
 
 ## 김도현
 <details>
@@ -139,7 +166,37 @@
  </figure>
 </div>
 </details>
+
 ## 이상우
+<details>
+<summary>KEEP</summary>
+<div>
+<figure align="center">
+  <p>팀원들에 대해서 알 수 있는 기회였다.</p>
+  <p>기술에 대해서 공부를 할 수 있는 시간이었다.</p>
+  <p>다들 협업과 업무의 목말라있는게 보인다. 열정이 넘치고, 일찍온다.</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>PROBLEM</summary>
+<div>
+<figure align="center">
+  <p>팀원들의 열정을 프로젝트에 모두 담을 수 없었다.</p>
+  <p>새로운 기술을 적용하기엔 부족한 지식이었고, 부족한 시간이었던 것 같다.</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<summary>TRY</summary>
+<div>
+<figure align="center">
+  <p>가용 가능한 자원을 객관적으로 생각해서 프로젝트 주제를 정하고 계획을 짜야겠다.</p>
+ </figure>
+</div>
+</details>
 
 ## 이상훈
 <details>
