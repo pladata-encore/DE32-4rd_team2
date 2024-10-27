@@ -22,7 +22,6 @@
 #### 추가 예정
 
 ### 🗓️ 전체 프로젝트 일정
----
 <details> 
 <summary>프로젝트 일정 : 2024년 10월 24일 ~ 2024년 10월 27일(총 4일)</summary>
   <div align="center">
@@ -121,7 +120,8 @@
 <summary>KEEP</summary>
 <div>
 <figure align="center">
-  <p></p>
+  <p>이전에 했던 내용을 활용하였기 때문에 해당 내용에 대한 이해도가 상승함과 동시에 자바 활용하는 방법을 익힐 수 있었다.</p>
+  <p>파이널을 같이 할 팀원이기 때문에 협업하는 방법에 대해 논의하고 적극적으로 소통하려고 노력한 점이 좋았다.</p>
  </figure>
 </div>
 </details>
@@ -130,7 +130,8 @@
 <summary>PROBLEM</summary>
 <div>
 <figure align="center">
-  <p></p>
+  <p>이전 프로젝트를 자바로 대체하는 것이 목표인지 그것을 참고한 새로운 프로젝트인지 구분하는 것이 확실하게 되지 않았던 것 같다.</p>
+  <p>아무래도 시간이 부족했기 때문에 다른 팀원들의 수행한 역할 및 업무를 완벽하게 이해하고 넘어가기에는 무리가 있었고, 각자 맡은 업무에만 집중하게 되었던 점이 아쉬웠다.</p>
  </figure>
 </div>
 </details>
@@ -140,7 +141,8 @@
 <summary>TRY</summary>
 <div>
 <figure align="center">
-  <p></p>
+  <p>역할 분담과 담당 업무에 대한 공유가 더욱 더 잘 이뤄져야 한다.(이 부분에서는 완벽이란 없으니 언제나 더욱 노력해야 함)</p>
+  <p>프로젝트를 만족스럽게 완성하는 것도 중요하지만, 더욱 중요한 것은 주어진 시간 내에 프로젝트를 완성하는 것이기 때문에 기간 내에 해낼 수 있는 프로젝트를 계획하는 것에 집중해야 한다.</p>
  </figure>
 </div>
 </details>
@@ -258,10 +260,9 @@
 </details>
 
 <details>
+<summary>TRY</summary>
 <div>
 <figure align="center">
-<details>
-<summary>TRY</summary>
   <p>1. 우선순위(팀의 Task에 대한)를 확정한 후에 실행에 옮길 것</p>
   <p>2. Trouble Shooting 기록 제대로 남기기</p>
   <p>3. Problem의 4번과 연관, 방향성을 제대로 확인한 후 내가 할 수 있는 자원하여 팀에 제대로 도움이 되어보도록 하겠습니다.</p>
