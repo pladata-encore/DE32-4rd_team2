@@ -1,4 +1,4 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=플레이데이터%20DE%2032기%204rd%202조&fontSize=40&color=100:ff7f00,100:87ceeb&stroke=ffffff)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=플레이데이터%20DE%2032기%20Team_Project_4rd%202조&fontSize=40&color=100:ff7f00,100:87ceeb&stroke=ffffff)
 
 ---
 
