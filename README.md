@@ -113,10 +113,67 @@
 ## 김동욱
 
 ## 김도현
+<details>
+<div>
+<figure align="center">
+<details>
+<summary>KEEP</summary>
+  <p>중간중간 소통을 해서 서로 진행했던 것, 배운 점을 공유해서 좋았다.</p>
+ </figure>
+</div>
+</details>
 
+<details>
+<div>
+<figure align="center">
+<details>
+<summary>PROBLEM</summary>
+  <p>짧은 시간에 많은 것을 하려다 보니 시간이 촉박했다.</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<div>
+<figure align="center">
+<details>
+<summary>TRY</summary>
+  <p>서로 진행하는 것을 공유하는 과정에서 역할분담이 덜된 느낌, 각자 코딩하며 스스로 학습한 것은 좋았으나 전체 프로젝트 진행도로 봤을 때는 위의 점 때문에 많이 지체된 느낌이 있었다.</p>
+ </figure>
+</div>
+</details>
 ## 이상우
 
 ## 이상훈
+<details>
+<div>
+<figure align="center">
+<details>
+<summary>KEEP</summary>
+  <p>소통을 많이해서 공유가 잘돼서 좋았고, 그 덕분에 이해가 좋았고, 나의 업무에 좀 더 집중 할 수 있었다.</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<div>
+<figure align="center">
+<details>
+<summary>PROBLEM</summary>
+  <p>짧은 시간에 많은 것을 하려다 보니 시간이 촉박하고 코드 이해가 부족했다.</p>
+ </figure>
+</div>
+</details>
+
+<details>
+<div>
+<figure align="center">
+<details>
+<summary>TRY</summary>
+  <p>기간 내에 이루어질 수 있는 요구사항을 좀 더 구체화 했으면 좋겠다. 약간은 일방적인 소통의 느낌이 있었던거 같다. 업무 분담도 다음엔 더 잘됐으면 좋겠다라는 바램</p>
+ </figure>
+</div>
+</details>
 
 ## 조하영
 <details>
@@ -129,6 +186,7 @@
  </figure>
 </div>
 </details>
+
 <details>
 <summary>PROBLEM</summary>
 <div>
@@ -141,6 +199,7 @@
  </figure>
 </div>
 </details>
+
 <details>
 <div>
 <figure align="center">
