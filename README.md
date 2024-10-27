@@ -8,7 +8,7 @@
 |:--------:|:---------------:|
 | [김동욱](https://github.com/DONGUK777)   | Kafka(Consumer 및 로그 파일 저장), README 작성 |
 | [김도현](https://github.com/rlaehgus97)   | PySpark 및 Airflow 데이터 집계 및 DB 저장, 대시보드 제작 |
-| [이상우](https://github.com/GITSangWoo)   | 프론트엔드 개발, Spring Boot(CRUD), Docker 환경 구성 및 AWS 연결 |
+| [이상우](https://github.com/GITSangWoo)   | 풀스택, 시스템 아키텍처 빌드, 대시보드 제작 |
 | [이상훈](https://github.com/hun0219)   | Kafka(Producer), PySpark 및 Airflow 데이터 집계 및 DB 저장 |
 | [조하영](https://github.com/EstherCho-7)   | Spring Boot(CRUD 및 DB 생성), 트러블 슈팅 |
 
@@ -149,6 +149,8 @@ $ docker compose -d --force-recreate --build
 ---
 구현 완료되면 테스트 결과 이미지 및 시현 영상 업로드 예정
 
+- **[Airflow 화면]**
+![image](https://github.com/user-attachments/assets/62e19ce7-51cf-4a2e-a322-651971c0560a)
 
 <br/>
 
