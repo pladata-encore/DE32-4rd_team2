@@ -3,7 +3,7 @@
 ---
 
 ### Team
-
+---
 | 이름     | 역할            |
 |:--------:|:---------------:|
 | [김동욱](https://github.com/DONGUK777)   ||
@@ -13,6 +13,7 @@
 | [조하영](https://github.com/EstherCho-7)   ||
 
 ### 활용 기술 스택
+---
 ![Ubuntu](https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu)
 ![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
@@ -21,6 +22,7 @@
 #### 추가 예정
 
 ### 🗓️ 전체 프로젝트 일정
+---
 <details> 
 <summary>프로젝트 일정 : 2024년 10월 24일 ~ 2024년 10월 27일(총 4일)</summary>
   <div align="center">
