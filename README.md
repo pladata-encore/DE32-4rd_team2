@@ -182,6 +182,7 @@ $ SELECT * FROM chatlog;
 - [[Issues]](https://github.com/DE32FinalTeam2/JavaWithKafka/issues)
 - [[Pull requests]](https://github.com/DE32FinalTeam2/JavaWithKafka/pulls)
 
+<br/>
 
 # 🔄회고(KPT)
 
