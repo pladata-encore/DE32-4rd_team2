@@ -164,10 +164,10 @@ $ SELECT * FROM chatlog;
 구현 완료되면 테스트 결과 이미지 및 시현 영상 업로드 예정
 
 - **[채팅 웹 시현 영상]**
-<img src="https://github.com/user-attachments/assets/d6071a6e-6e29-4eb3-bb82-42d9cdb1ebdf">
 
 - **[Airflow 화면]**
-![image](https://github.com/user-attachments/assets/62e19ce7-51cf-4a2e-a322-651971c0560a)
+<img src="![채팅 웹 시현 영상](https://github.com/user-attachments/assets/b3625073-4e8d-4b69-9037-670e75d5a2ea)">
+<img src="https://github.com/user-attachments/assets/b3625073-4e8d-4b69-9037-670e75d5a2ea">
 
 - **[DB 저장 결과 화면]**
 ![image](https://github.com/user-attachments/assets/eca814e4-b345-4d1a-b657-1e900ecad7a7)
