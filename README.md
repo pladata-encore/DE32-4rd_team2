@@ -168,6 +168,9 @@ $ SELECT * FROM chatlog;
 - **[Airflow 화면]**
 <img src="https://github.com/user-attachments/assets/b3625073-4e8d-4b69-9037-670e75d5a2ea" width="500">
 
+- test
+<img width="1500" src="https://github.com/user-attachments/assets/a7fcee2e-2b8e-4b72-b140-a3a40cd4dc4e"/>
+
 - **[DB 저장 결과 화면]**
 ![image](https://github.com/user-attachments/assets/eca814e4-b345-4d1a-b657-1e900ecad7a7)
 
