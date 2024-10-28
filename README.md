@@ -20,6 +20,7 @@
 ![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-9B59B6?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 </br>
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017E9A?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -137,9 +138,24 @@ $ cd /home/ubuntu/code/JavaWithKafka
 $ docker compose -d --force-recreate --build
 ```
 
-4. **Airflow 및 Pyspark 실행**
+4. **웹 서버 접속**
+```
+http://43.201.63.84:8888
+```
 
+5. **Airflow 및 Pyspark 실행**
+```
+$ airflow standalone
+```
 
+6. **DB 확인**
+```
+# aws 서버에서 실행
+$ docker exec -it todo-mariadb bash
+$ mariadb -u <username> -p<password>
+$ use <database_name>;
+$ SELECT * FROM chatlog;
+```
 
 <br/>
 
@@ -163,7 +179,7 @@ $ docker compose -d --force-recreate --build
 
 # 🔄회고(KPT)
 ### 팀 회고
-#### 같이 최종 회고 하나 적어도 괜찮을 듯해여
+#### 파이널 프로젝트를 미리 연습한다는 마음으로 서로 소통하고 협력하며 자연스럽게 실력도 쌓고 팀워크도 다질 수 있었습니다. 시간은 짧았지만 각자 맡은 부분에 최선을 다했고, 앞으로는 역할과 목표를 조금 더 분명히 해서 더 잘 맞는 호흡으로 프로젝트를 해낼 수 있을 것 같습니다.
 <br/>
 
 ## 김동욱
