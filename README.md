@@ -270,7 +270,7 @@ $ SELECT * FROM chatlog;
 
 ## 이상우
 <details>
-summary>KEEP</summary>
+<summary>KEEP</summary>
 <div>
 <figure align="center">
   <p>팀원들에 대해서 알 수 있는 기회였다.</p>
