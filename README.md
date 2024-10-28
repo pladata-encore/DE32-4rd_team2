@@ -90,8 +90,7 @@
 
 ### 📅개발 일정
 ---
-상우형 보내주세요
-
+- [GitHub 칸반보드](https://github.com/orgs/DE32FinalTeam2/projects/1/views/1)
 
 <br/>
 
@@ -148,8 +147,17 @@ $ docker compose -d --force-recreate --build
 ---
 구현 완료되면 테스트 결과 이미지 및 시현 영상 업로드 예정
 
+- **[채팅 시현 영상]**
+
+
 - **[Airflow 화면]**
 ![image](https://github.com/user-attachments/assets/62e19ce7-51cf-4a2e-a322-651971c0560a)
+
+- **[DB 저장 결과 화면]**
+![image](https://github.com/user-attachments/assets/eca814e4-b345-4d1a-b657-1e900ecad7a7)
+
+- **[Tableau를 통한 데이터 통계]**
+![image](https://github.com/user-attachments/assets/1154df55-28f5-492a-8f2a-a4c6b7c37d59)
 
 <br/>
 
