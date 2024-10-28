@@ -164,8 +164,8 @@ $ SELECT * FROM chatlog;
 구현 완료되면 테스트 결과 이미지 및 시현 영상 업로드 예정
 
 - **[채팅 웹 시현 영상]**
-![채팅 웹 시현 영상](https://github.com/user-attachments/assets/b2785f02-f581-43b4-9908-3a8f2fda151b)
---
+https://github.com/user-attachments/assets/b2785f02-f581-43b4-9908-3a8f2fda151b
+
 <img width="1500" src="https://github.com/user-attachments/assets/a7fcee2e-2b8e-4b72-b140-a3a40cd4dc4e"/>
 
 - **[Airflow 화면]**
