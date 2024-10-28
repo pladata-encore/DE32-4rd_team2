@@ -115,7 +115,7 @@
 
 ### 🏗️시스템 아키텍처
 ---
-![image](https://github.com/user-attachments/assets/97b20b4c-0c07-4c14-baa0-8913c0d8e6d2)
+![image](https://github.com/user-attachments/assets/e6abc664-7d79-44c0-b814-da8400c086a1)
 
 <br/>
 
@@ -163,8 +163,8 @@ $ SELECT * FROM chatlog;
 ---
 구현 완료되면 테스트 결과 이미지 및 시현 영상 업로드 예정
 
-- **[채팅 시현 영상]**
-
+- **[채팅 웹 시현 영상]**
+<img src="https://github.com/user-attachments/assets/d6071a6e-6e29-4eb3-bb82-42d9cdb1ebdf">
 
 - **[Airflow 화면]**
 ![image](https://github.com/user-attachments/assets/62e19ce7-51cf-4a2e-a322-651971c0560a)
