@@ -179,14 +179,11 @@ $ SELECT * FROM chatlog;
 <br/>
 
 ## ⌨트러블 슈팅 및 PR
-- [Issues](https://github.com/DE32FinalTeam2/JavaWithKafka/issues)
-- [Pull requests](https://github.com/DE32FinalTeam2/JavaWithKafka/pulls)
+- [[Issues]](https://github.com/DE32FinalTeam2/JavaWithKafka/issues)
+- [[Pull requests]](https://github.com/DE32FinalTeam2/JavaWithKafka/pulls)
 
 
 # 🔄회고(KPT)
-## 최종 팀 회고
-
-<br/>
 
 ## 김동욱
 #### 파이널 프로젝트를 미리 연습한다는 마음으로 서로 소통하고 협력하며 실력도 쌓고 팀워크도 다질 수 있었습니다.
@@ -208,6 +205,8 @@ $ SELECT * FROM chatlog;
 #### final 주제를 미리 명확하게 잡은 후 관련된 기술 스택에 대해 다같이 논의하는 시간을 많이 가져야겠다
 
 <br/>
+
+# KPT
 
 ## 김동욱
 <details>
