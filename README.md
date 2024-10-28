@@ -166,7 +166,6 @@ $ SELECT * FROM chatlog;
 - **[채팅 웹 시현 영상]**
 
 - **[Airflow 화면]**
-<img src="![채팅 웹 시현 영상](https://github.com/user-attachments/assets/b3625073-4e8d-4b69-9037-670e75d5a2ea)">
 <img src="https://github.com/user-attachments/assets/b3625073-4e8d-4b69-9037-670e75d5a2ea">
 
 - **[DB 저장 결과 화면]**
