@@ -290,7 +290,7 @@ $ SELECT * FROM chatlog;
 <summary>PROBLEM</summary>
 <div>
 <figure align="center">
-  <p>짧은 시간에 많은 것을 하려다 보니 시간이 촉박하고 코드 이해가 부족했다.</p>
+  <p>짧은 시간에 많은 것을 하려다 보니 시간이 촉박하고 코드 이해가 부족했다. 자바에 추가 학습이 필요하다.</p>
  </figure>
 </div>
 </details>
